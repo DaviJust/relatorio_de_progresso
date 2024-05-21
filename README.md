@@ -13,15 +13,18 @@ Responder cada uma das perguntas com a visualização mais adequada: Usar gráfi
 Organização do notebook: O notebook deve estar organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados.
 Itens do Relatório
 
-<h3>O relatório de progresso diário incluirá os seguintes itens:</h3>h3>
+## Itens do Relatório
 
-Total de Horas Trabalhadas: Soma das horas trabalhadas pela equipe em cada dia.
-Média Diária de Horas Trabalhadas: Média de horas trabalhadas por dia.
-Total de Bugs Corrigidos: Soma dos bugs corrigidos em cada dia.
-Média Diária de Bugs Corrigidos: Média de bugs corrigidos por dia.
-Total de Tarefas Concluídas: Soma das tarefas concluídas em cada dia.
-Média Diária de Tarefas Concluídas: Média de tarefas concluídas por dia.
-Produtividade Diária: Tarefas concluídas por hora trabalhada.
+O relatório de progresso diário incluirá os seguintes itens:
+
+- **Total de Horas Trabalhadas**: Soma das horas trabalhadas pela equipe em cada dia.
+- **Média Diária de Horas Trabalhadas**: Média de horas trabalhadas por dia.
+- **Total de Bugs Corrigidos**: Soma dos bugs corrigidos em cada dia.
+- **Média Diária de Bugs Corrigidos**: Média de bugs corrigidos por dia.
+- **Total de Tarefas Concluídas**: Soma das tarefas concluídas em cada dia.
+- **Média Diária de Tarefas Concluídas**: Média de tarefas concluídas por dia.
+- **Produtividade Diária**: Tarefas concluídas por hora trabalhada.
+
 
 <h3>Existem 2 formas de usar</h3>
 
