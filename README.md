@@ -23,9 +23,13 @@ Total de Tarefas Concluídas: Soma das tarefas concluídas em cada dia.
 Média Diária de Tarefas Concluídas: Média de tarefas concluídas por dia.
 Produtividade Diária: Tarefas concluídas por hora trabalhada.
 
-<h3>Como Utilizar</h3>
-Clone o repositório:
+<h3>Existem 2 formas de usar</h3>
 
+<h4>Primeira forma de usar</h4>
+Abre esse link: https://colab.research.google.com/drive/1OHgbKKyiZ90ZYDNzIaG-REnwQm-Pwxwa?usp=sharing
+
+<h4>Segunda forma de usar</h4>
+Clone o repositório:
 bash
 Copiar código
 git clone https://github.com/seu_usuario/relatorio_de_progresso.git
