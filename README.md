@@ -29,10 +29,7 @@ Produtividade Diária: Tarefas concluídas por hora trabalhada.
 Abre esse link: https://colab.research.google.com/drive/1OHgbKKyiZ90ZYDNzIaG-REnwQm-Pwxwa?usp=sharing
 
 <h4>Segunda forma de usar</h4>
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu_usuario/relatorio_de_progresso.git
-Abra o Jupyter Notebook ou Google Colab:
-No Google Colab: Faça o upload do notebook para o Google Colab.
-Execute as células sequencialmente: Siga as instruções no notebook para reproduzir a análise.
+<p>Clone o repositório:</p
+<p>Abra o Jupyter Notebook ou Google Colab:</p>
+<p>No Google Colab: Faça o upload do notebook para o Google Colab.</p>
+<p>Execute as células sequencialmente: Siga as instruções no notebook para reproduzir a análise.</p>
