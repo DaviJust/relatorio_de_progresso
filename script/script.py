@@ -17,6 +17,8 @@ media_diaria_horas_trabalhadas = df['horas_trabalhadas'].mean()
 
 total_bugs_corrigidos = df['bugs_corrigidos'].sum()
 
+total_bugs = df['qtda_bugs'].sum()
+
 correct_bugs_average = df['bugs_corrigidos'].mean()
 
 total_done_chores = df['tarefas_concluidas'].sum()
@@ -28,13 +30,13 @@ df['produtividade_diaria'] = df['tarefas_concluidas'] / df['horas_trabalhadas']
 print(f"Total de Horas Trabalhadas: {hours_worked}")
 print(f"Média Diária de Horas Trabalhadas: {media_diaria_horas_trabalhadas:.2f}")
 print(f"Total de Bugs Corrigidos: {total_bugs_corrigidos}")
+print(f"Total de Bugs Que Deveriam Ser Corrigidos: {total_bugs}")
 print(f"Média Diária de Bugs Corrigidos: {correct_bugs_average:.2f}")
 print(f"Total de Tarefas Concluídas: {total_done_chores}")
 print(f"Média Diária de Tarefas Concluídas: {average_diary_tasks_done:.2f}")
 
 ultima_semana = df[df['semana'] == df['semana'].max()]
 
-quantidade_bugs = ultima_semana['qtda_bugs'].max() - ultima_semana['bugs_corrigidos'].sum()
 
 resposta_1 = ultima_semana['horas_trabalhadas'].sum()
 resposta_2 = ultima_semana['horas_trabalhadas'].mean()
