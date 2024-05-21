@@ -1,10 +1,10 @@
 <h1>Relatório de Progresso - Do Something Design</h1>
 Este projeto tem a finalidade de organizar e estruturar dados brutos para obter insights sobre a produtividade dos funcionários de uma empresa de desenvolvimento de software. A "Do Something Design" foi contratada para avaliar a produtividade de uma equipe de engenheiros de software. Davi, um dos funcionários da nossa empresa, conversou com a equipe e conseguiu os dados referentes à produtividade da equipe para realizar a análise.
 
-Objetivo do Projeto
+## Objetivo do Projeto
 O objetivo deste relatório é demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana. Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e tomar decisões informadas para garantir o sucesso do projeto.
 
-<h3>Requisitos</h3>
+## Requisitos
 Para a elaboração deste relatório, foram considerados os seguintes requisitos:
 
 Utilizar Jupyter Notebook ou Google Colab: Para realizar a análise de dados e gerar visualizações.
@@ -26,7 +26,7 @@ O relatório de progresso diário incluirá os seguintes itens:
 - **Produtividade Diária**: Tarefas concluídas por hora trabalhada.
 
 
-<h3>Existem 2 formas de usar</h3>
+## Existem 2 formas de usar
 
 <h4>Primeira forma de usar</h4>
 Abre esse link: https://colab.research.google.com/drive/1OHgbKKyiZ90ZYDNzIaG-REnwQm-Pwxwa?usp=sharing
