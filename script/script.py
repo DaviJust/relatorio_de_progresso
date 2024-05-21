@@ -34,6 +34,8 @@ print(f"Total de Bugs Que Deveriam Ser Corrigidos: {total_bugs}")
 print(f"Média Diária de Bugs Corrigidos: {correct_bugs_average:.2f}")
 print(f"Total de Tarefas Concluídas: {total_done_chores}")
 print(f"Média Diária de Tarefas Concluídas: {average_diary_tasks_done:.2f}")
+print(f"Média de tarefas feitas por hora: {hours_worked / total_done_chores}")
+print(f"Média de bugs feitos por hora: {hours_worked / total_bugs_corrigidos}")
 
 ultima_semana = df[df['semana'] == df['semana'].max()]
 
