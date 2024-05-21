@@ -4,7 +4,7 @@ Este projeto tem a finalidade de organizar e estruturar dados brutos para obter 
 Objetivo do Projeto
 O objetivo deste relatório é demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana. Os dados fornecidos permitirão ao proprietário da equipe de desenvolvimento obter insights sobre o progresso do projeto, identificar possíveis áreas de melhoria e tomar decisões informadas para garantir o sucesso do projeto.
 
-<h3>Requisitos</h3>h3>
+<h3>Requisitos</h3>
 Para a elaboração deste relatório, foram considerados os seguintes requisitos:
 
 Utilizar Jupyter Notebook ou Google Colab: Para realizar a análise de dados e gerar visualizações.
@@ -23,7 +23,7 @@ Total de Tarefas Concluídas: Soma das tarefas concluídas em cada dia.
 Média Diária de Tarefas Concluídas: Média de tarefas concluídas por dia.
 Produtividade Diária: Tarefas concluídas por hora trabalhada.
 
-<h3>Como Utilizar</h3>h3>
+<h3>Como Utilizar</h3>
 Clone o repositório:
 
 bash
