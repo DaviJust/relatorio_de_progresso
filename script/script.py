@@ -77,5 +77,13 @@ plt.subplot(2, 2, 4)
 sns.lineplot(x='dia', y='produtividade_diaria', data=df, marker='o')
 plt.title('Produtividade Diária')
 
+plt.subplot(1, 1, 1)
+sns.lineplot(x='horas_trabalhadas', y='tarefas_concluidas', data=df, marker='o')
+plt.title('Produtividade Diária')
+
+plt.subplot(1, 1, 1)
+sns.lineplot(x='horas_trabalhadas', y='bugs_corrigidos', data=df, marker='o')
+plt.title('Produtividade Diária')
+
 plt.tight_layout()
 plt.show()
