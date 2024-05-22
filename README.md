@@ -34,12 +34,4 @@ Em caso de erro, considere essas soluções:
 
 - **Os dados não aparecem**: Você precisa baixar os dados.csv contido na pasta dados desse repositório, anexar dados.csv na pasta do google colab e atualizar o endereço da variável dados
 ```python
-dados = pd.read_csv('endereço do arquivo csv que você colocou na pasta do google colab')
-
-
-
-<h4>Segunda forma de usar</h4>
-<p>Clone o repositório:</p
-<p>Abra o Jupyter Notebook ou Google Colab:</p>
-<p>No Google Colab: Faça o upload do notebook para o Google Colab.</p>
-<p>Execute as células sequencialmente: Siga as instruções no notebook para reproduzir a análise.</p>
+dados = pd.read_csv('endereço do arquivo csv que você colocou na pasta do google colab'```)
